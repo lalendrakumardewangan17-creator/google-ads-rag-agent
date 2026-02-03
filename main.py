@@ -1,5 +1,9 @@
-from agent.rag_ingestion import ingest_knowledge
+from agent.decision_engine import build_rag_query
+from agent.rag_retriever import retrieve_context
 
+issues = ["Low CTR", "High CPA"]
+query = build_rag_query(issues)
 
-if __name__ == "__main__":
-    ingest_knowledge()
+context = retrieve_context(query)
+
+print("📄 Retrieved Context:\n", context)
