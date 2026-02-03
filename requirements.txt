@@ -9,3 +9,5 @@ python-dotenv
 sentence-transformers
 langchain-huggingface
 langchain-chroma
+
+groq
