@@ -1,6 +1,5 @@
-def main():
-    print("Hello from google-ads-rag-agent!")
+from agent.rag_ingestion import ingest_knowledge
 
 
 if __name__ == "__main__":
-    main()
+    ingest_knowledge()

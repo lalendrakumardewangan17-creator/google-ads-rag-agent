@@ -1,0 +1,7 @@
+Low click-through rate in Google Ads usually indicates poor ad relevance.
+To improve CTR:
+- Rewrite ad copy to match search intent
+- Use strong call-to-action phrases
+- Add sitelink and callout extensions
+- Refine keyword match types
+- Pause low-performing keywords

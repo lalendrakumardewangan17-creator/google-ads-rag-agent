@@ -1,0 +1,4 @@
+Google Ads bidding strategies impact performance significantly.
+Manual CPC gives control but requires monitoring.
+Target CPA works best with sufficient conversion data.
+Maximize Conversions is suitable for scaling campaigns.

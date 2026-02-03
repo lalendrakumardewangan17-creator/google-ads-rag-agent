@@ -1,0 +1,8 @@
+High cost per acquisition suggests inefficient bidding or targeting.
+To reduce CPA:
+- Switch to conversion-based bidding strategies
+- Improve landing page conversion rate
+- Exclude irrelevant search terms
+- Adjust bids by device and location
+
+
